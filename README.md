@@ -7,3 +7,4 @@
 Замечение 2: Коммиты на английском
 
 1) Clone repo to local folder
+2) Second commit
