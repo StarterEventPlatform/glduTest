@@ -11,4 +11,4 @@
 3) Third commit 3.1
 4) Close issue
 5) Reseaching commit
-6) Commit from develop branch
+6) Commit from develop branch 
